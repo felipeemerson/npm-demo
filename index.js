@@ -5,6 +5,7 @@ var _ = require('underscore');
 //2. arquivo ou pasta
 //3. node_modules
 
+//função de underscore
 result = _.contains([1, 2, 3], 2);
 
 console.log(result);
